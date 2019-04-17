@@ -13,4 +13,7 @@ public class NewClass {
   public void unMetodo(){
       System.out.println("Hola");
   }
+  public void estoyCansada(){
+      System.out.println("me quiero ir a mi casa yaaaaa!!!");
+  }
 }
