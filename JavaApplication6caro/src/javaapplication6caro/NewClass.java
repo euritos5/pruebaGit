@@ -10,5 +10,7 @@ package javaapplication6caro;
  * @author programador
  */
 public class NewClass {
-    ///caro
+  public void unMetodo(){
+      System.out.println("Hola");
+  }
 }
